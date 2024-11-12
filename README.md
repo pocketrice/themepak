@@ -1,2 +1,2 @@
 # themepak
-Various personal colour schemes/themes for an assortment of software I've made.
+Various personal colour schemes/themes for a smattering of software I use. 
